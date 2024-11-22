@@ -2,7 +2,7 @@
 ![Nodepay.ai](image.png)
 Nodepay.ai Bot auto ping using multyple proxy
 
-Register to Nodepay.ai : [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=TCs3g2wzpJRELsX)
+Register to Nodepay.ai : [https://app.nodepay.ai/register](https://app.nodepay.ai/register?ref=Od15EPpf6UBd5qR)
 
 # Features
 This script is intended for running on a server using multyple proxy.
@@ -14,9 +14,11 @@ This script is intended for running on a server using multyple proxy.
 - make sure your account get **Proof of Humanhood** badge
 - Register here [https://app.nodepay.ai/](https://app.nodepay.ai/register?ref=Od15EPpf6UBd5qR)
   
+![image](https://github.com/user-attachments/assets/6b77e7e9-7fcc-4de0-b026-ca3d1a40146e)
+
 ## Obtain Required Information
 
-1. Open the link and log in to [https://app.nodepay.ai/](https://app.nodepay.ai/register?ref=TCs3g2wzpJRELsX)
+1. Open the link and log in to [https://app.nodepay.ai/](https://app.nodepay.ai/register?ref=Od15EPpf6UBd5qR)
 2. Press F12 to open the console and enter the code (Ctrl + Shift + i for inspection)
 3. In the console, enter ``localStorage.getItem('np_token');``
 4. The text printed in the console is your NP_TOKEN copy and paste to `np_token.txt`
@@ -24,8 +26,8 @@ This script is intended for running on a server using multyple proxy.
 
 ## 1. Steps to Run the Code
 ```bash
-git clone https://github.com/Xuanthien/nodepayproxy.git
-cd nodepayproxy
+git clone https://github.com/Zlkcyber/nodepay.git
+cd nodepay
 ```
 
 ## 2. Install Dependencies
